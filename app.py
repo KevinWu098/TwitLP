@@ -44,6 +44,7 @@ def paraphrase_text(url):
     """
     prompt = og_prompt + f"{text}"
 
+    # Recursively paraphrases until length of tweet < 280
     def generate_response(result, attempts):
         if attempts <= 0:
             return [text, "Failed to generate a concise response. This may be the bot's fault or the content of the Twitlonger is too extreme."]
@@ -63,7 +64,7 @@ def paraphrase_text(url):
 
         return generate_response(result, attempts - 1)
     
-    return generate_response(prompt, attempts=5)
+    return generate_response(prompt, attempts=5) # If it can't cut down within 5 recursions, it's joever.
 
 with gr.Blocks() as demo:
     with gr.Row():
