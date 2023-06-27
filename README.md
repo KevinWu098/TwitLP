@@ -11,3 +11,6 @@ Using Google's Bard and some web scraping with Beautiful Soup, TwitLP aims to co
 
 ## Demo
 Access a live Twitter-less demo of TwitLP hosted on HuggingFace: [TwitTL](https://huggingface.co/spaces/hamlegs/TwitTL)
+
+## To-Do:
+- Build the Tweepy bot 🙄
