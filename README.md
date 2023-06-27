@@ -10,4 +10,4 @@ TwitLP is your best friend when you're, quite frankly, too lazy to click a link 
 Using Google's Bard and some web scraping with Beautiful Soup, TwitLP aims to concisely summarize a TL back down to 280 characters.
 
 ## Demo
-Access a live demo of TwitLP hosted on HuggingFace: [TwitTL](https://huggingface.co/spaces/hamlegs/TwitTL)
+Access a live Twitterless demo of TwitLP hosted on HuggingFace: [TwitTL](https://huggingface.co/spaces/hamlegs/TwitTL)
