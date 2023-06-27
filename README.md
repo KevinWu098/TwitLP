@@ -1,5 +1,5 @@
 # TwitLP
-TwitLonger Paraphraser - For when TwitLonger gets too Longer
+TwitLonger Paraphraser - A Twitter Bot (soon<sup>tm</sup> to be implemented) for when TwitLonger gets too Longer
 
 ## Disclaimer ‼️
 No paraphrased text will ever maintain the exact details, intent, or content of the original text; and in some cases, such as with often highly-"jargonized" Twitlongers, this bot's paraphrasing may be... passable at best and unintentionally misleading at worse. If something sounds too good (or dumb) to be true, please please refer to the actual Twitlonger. 
