@@ -96,8 +96,3 @@ with gr.Blocks() as demo:
     )
 
 demo.launch()
-
-
-
-# twitlonger_url = "https://www.twitlonger.com/show/n_1ss84sl"
-# gr.Interface(fn=get_twitlonger_text, inputs="textbox", outputs="textbox").launch()
