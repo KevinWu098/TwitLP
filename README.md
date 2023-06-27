@@ -13,4 +13,6 @@ Using Google's Bard and some web scraping with Beautiful Soup, TwitLP aims to co
 Access a live Twitter-less demo of TwitLP hosted on HuggingFace: [TwitLP](https://huggingface.co/spaces/hamlegs/TwitLP)
 
 ## To-Do:
-- Build the Tweepy bot 🙄
+- ~~<i> Build the Tweepy bot 🙄 </i>~~
+- Unfortunately, due to the nature of Twitter's API no longer being free for read-access, I've decided to let TwitLP hibernate until the Twitter API climate warms up a little (if ever).
+  - > Also, for similar reasons, TwitLonger itself is no longer active due to the API changes, so this project might best be summed up as a "fun exploration of what could be."
